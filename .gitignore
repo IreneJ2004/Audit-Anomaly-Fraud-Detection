@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# DB Browser for SQLite session file
+*.sqbpro
+
+# Temporary / local files
+*.tmp
+*.log
